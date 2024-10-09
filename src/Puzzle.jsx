@@ -127,8 +127,7 @@ export default function Puzzle() {
     else {
       console.log("Invalid move")
     }
-
-    setarr(result);
+    
     setCheckTrigger(true)
 
   }
